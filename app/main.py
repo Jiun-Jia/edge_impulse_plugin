@@ -11,7 +11,7 @@ from logging.handlers import RotatingFileHandler
 import os
 from contextlib import asynccontextmanager
 
-from app.config import settings
+from common.config import settings
 from app.api import converter_router, storage_router
 
 

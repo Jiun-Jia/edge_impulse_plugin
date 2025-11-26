@@ -15,7 +15,7 @@ from app.models import (
 )
 from app.api.storage_routes import get_storage_client
 from app.services import EdgeImpulseConverter, S3StorageClient
-from app.config import settings
+from common.config import settings
 
 logger = logging.getLogger(__name__)
 

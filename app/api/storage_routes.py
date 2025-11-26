@@ -9,7 +9,7 @@ import logging
 
 from app.models import HealthCheckResponse
 from app.services import S3StorageClient
-from app.config import settings
+from common.config import settings
 
 logger = logging.getLogger(__name__)
 

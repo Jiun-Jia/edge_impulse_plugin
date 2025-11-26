@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "boto3>=1.40.55",
     "cbor2>=5.7.0",
+    "celery>=5.5.3",
     "dotenv>=0.9.9",
     "fastapi>=0.119.0",
     "pydantic>=2.12.3",
