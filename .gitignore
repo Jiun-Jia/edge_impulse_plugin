@@ -1,1 +1,4 @@
 test_*
+
+# Python cache files
+__pycache__/
