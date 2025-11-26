@@ -8,7 +8,7 @@ from pydantic import Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
-class Settings(BaseSettings):
+class Config(BaseSettings):
     """Configuration for Edge Impulse Plugin"""
 
     ################
@@ -40,7 +40,7 @@ class Settings(BaseSettings):
     ##############
 
     CELERY_BROKER_URL: Optional[str] = Field(default="redis://localhost:6379/0")
-    CELERY_RESULT_BACKEND: Optional[str] = Field(default="redis://localhost:6379/0")
+    CELERY_RESULT_BACKEND: Optional[str] = Field(default="redis://localhost:6379/1")
 
     ######################
     ### Virtual Device ###
@@ -61,10 +61,10 @@ class Settings(BaseSettings):
     )
 
 
-settings = Settings()
+config = Config()
 
 KEY_PADDING = 40
 print("=" * 100)
-for key, value in vars(settings).items():
+for key, value in vars(config).items():
     print((f"[ENV] {key.ljust(KEY_PADDING)}: {value}"))
 print("=" * 100)

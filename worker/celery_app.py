@@ -12,7 +12,7 @@ from celery import Celery
 from celery.signals import worker_ready, task_prerun, task_postrun
 from kombu import Queue
 
-from config.settings import configs as p
+from common.config import config
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -22,25 +22,11 @@ logger = logging.getLogger(__name__)
 # 🔧 CELERY CONFIGURATION
 # =============================================================================
 
-# Celery broker configuration (Redis)
-# Build Redis URL with optional password
-if p.REDIS_PASSWORD:
-    REDIS_URL = f"redis://{p.REDIS_USERNAME}:{p.REDIS_PASSWORD}@{p.REDIS_URL}"
-else:
-    REDIS_URL = f"redis://{p.REDIS_URL}"
-
-# Use configured database or default to 0/1
-REDIS_DB_BROKER = p.REDIS_DATABASE if p.REDIS_DATABASE else "0"
-REDIS_DB_RESULT = str(int(REDIS_DB_BROKER) + 1) if REDIS_DB_BROKER.isdigit() else "1"
-
-CELERY_BROKER_URL = f"{REDIS_URL}/{REDIS_DB_BROKER}"
-CELERY_RESULT_BACKEND = f"{REDIS_URL}/{REDIS_DB_RESULT}"
-
 # Create Celery app
 celery_app = Celery(
     "phm_service",
-    broker=CELERY_BROKER_URL,
-    backend=CELERY_RESULT_BACKEND,
+    broker=config.CELERY_BROKER_URL,
+    backend=config.CELERY_RESULT_BACKEND,
     include=[
         "domain.workers.tasks.training",
         "domain.workers.tasks.inference",
