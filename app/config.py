@@ -25,11 +25,7 @@ class Settings(BaseSettings):
     ##########################
 
     # S3 Endpoint URL
-    # AWS S3: https://s3.amazonaws.com
-    # MinIO: http://localhost:9000
-    # Wasabi: https://s3.wasabisys.com
     S3_ENDPOINT_URL: Optional[str] = Field(default=None)
-
     S3_BUCKET: Optional[str] = Field(default=None)
     S3_REGION: Optional[str] = Field(default=None)
     S3_ACCESS_KEY: Optional[str] = Field(default=None)
@@ -38,6 +34,20 @@ class Settings(BaseSettings):
 
     # S3 Base path for uploaded files
     S3_BASE_PATH: str = Field(default="edge-impulse-data")
+
+    ##############
+    ### Celery ###
+    ##############
+
+    CELERY_BROKER_URL: Optional[str] = Field(default="redis://localhost:6379/0")
+    CELERY_RESULT_BACKEND: Optional[str] = Field(default="redis://localhost:6379/0")
+
+    ######################
+    ### Virtual Device ###
+    ######################
+
+    VIRTUAL_DEVICE_URL: Optional[str] = Field(default=None)
+    VIRTUAL_DEVICE_API_KEY: Optional[str] = Field(default=None)
 
     ##################################
     ### Edge Impulse Configuration ###
