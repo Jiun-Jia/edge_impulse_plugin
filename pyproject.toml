@@ -4,4 +4,17 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "boto3>=1.40.55",
+    "cbor2>=5.7.0",
+    "dotenv>=0.9.9",
+    "fastapi>=0.119.0",
+    "pydantic>=2.12.3",
+    "pydantic-settings>=2.11.0",
+    "uvicorn>=0.38.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.0.1",
+]
