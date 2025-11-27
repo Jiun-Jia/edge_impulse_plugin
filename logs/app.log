@@ -1,0 +1,562 @@
+2025-11-26 16:28:59,075 - root - INFO - Logging configured successfully
+2025-11-26 16:28:59,075 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 16:28:59,076 - app.main - INFO - Environment: development
+2025-11-26 16:28:59,076 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 16:28:59,076 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 16:29:45,061 - app.main - INFO - Shutting down application
+2025-11-26 16:29:45,859 - root - INFO - Logging configured successfully
+2025-11-26 16:29:45,860 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 16:29:45,860 - app.main - INFO - Environment: development
+2025-11-26 16:29:45,860 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 16:29:45,861 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 16:30:03,158 - app.main - INFO - Shutting down application
+2025-11-26 16:30:06,304 - root - INFO - Logging configured successfully
+2025-11-26 16:30:06,304 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 16:30:06,304 - app.main - INFO - Environment: development
+2025-11-26 16:30:06,305 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 16:30:06,305 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 16:30:53,986 - app.main - INFO - Shutting down application
+2025-11-26 16:30:54,844 - root - INFO - Logging configured successfully
+2025-11-26 16:30:54,844 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 16:30:54,844 - app.main - INFO - Environment: development
+2025-11-26 16:30:54,845 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 16:30:54,845 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 16:31:28,974 - app.main - INFO - Shutting down application
+2025-11-26 16:31:29,784 - root - INFO - Logging configured successfully
+2025-11-26 16:31:29,784 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 16:31:29,784 - app.main - INFO - Environment: development
+2025-11-26 16:31:29,784 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 16:31:29,785 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 16:39:29,693 - app.main - INFO - Shutting down application
+2025-11-26 16:39:30,556 - root - INFO - Logging configured successfully
+2025-11-26 16:39:30,556 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 16:39:30,557 - app.main - INFO - Environment: development
+2025-11-26 16:39:30,557 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 16:39:30,557 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 16:49:55,345 - app.main - INFO - Shutting down application
+2025-11-26 16:49:56,141 - root - INFO - Logging configured successfully
+2025-11-26 16:49:56,141 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 16:49:56,141 - app.main - INFO - Environment: development
+2025-11-26 16:49:56,142 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 16:49:56,142 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 16:51:05,777 - app.main - INFO - Shutting down application
+2025-11-26 16:51:12,267 - root - INFO - Logging configured successfully
+2025-11-26 16:51:12,267 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 16:51:12,267 - app.main - INFO - Environment: development
+2025-11-26 16:51:12,267 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 16:51:12,267 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 16:55:45,983 - app.main - INFO - Shutting down application
+2025-11-26 16:55:47,281 - root - INFO - Logging configured successfully
+2025-11-26 16:55:47,281 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 16:55:47,281 - app.main - INFO - Environment: development
+2025-11-26 16:55:47,282 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 16:55:47,282 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 16:55:47,835 - app.main - INFO - Shutting down application
+2025-11-26 16:55:48,666 - root - INFO - Logging configured successfully
+2025-11-26 16:55:48,666 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 16:55:48,667 - app.main - INFO - Environment: development
+2025-11-26 16:55:48,667 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 16:55:48,667 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:14:56,520 - app.main - INFO - Shutting down application
+2025-11-26 17:14:57,756 - root - INFO - Logging configured successfully
+2025-11-26 17:14:57,757 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:14:57,757 - app.main - INFO - Environment: development
+2025-11-26 17:14:57,757 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:14:57,758 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:15:09,362 - app.main - INFO - Shutting down application
+2025-11-26 17:15:10,168 - root - INFO - Logging configured successfully
+2025-11-26 17:15:10,168 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:15:10,169 - app.main - INFO - Environment: development
+2025-11-26 17:15:10,169 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:15:10,169 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:15:23,770 - app.main - INFO - Shutting down application
+2025-11-26 17:15:24,557 - root - INFO - Logging configured successfully
+2025-11-26 17:15:24,557 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:15:24,558 - app.main - INFO - Environment: development
+2025-11-26 17:15:24,558 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:15:24,558 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:17:27,820 - app.main - INFO - Shutting down application
+2025-11-26 17:17:28,774 - root - INFO - Logging configured successfully
+2025-11-26 17:17:28,774 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:17:28,774 - app.main - INFO - Environment: development
+2025-11-26 17:17:28,774 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:17:28,775 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:17:54,689 - app.api.ingestion_routes - ERROR - Conversion/upload failed: 'NoneType' object has no attribute 'Redis'
+2025-11-26 17:18:42,625 - app.main - INFO - Shutting down application
+2025-11-26 17:18:43,539 - root - INFO - Logging configured successfully
+2025-11-26 17:18:43,539 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:18:43,539 - app.main - INFO - Environment: development
+2025-11-26 17:18:43,539 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:18:43,541 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:18:44,973 - app.main - ERROR - Unhandled exception: 'NoneType' object has no attribute 'Redis'
+Traceback (most recent call last):
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 123, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 109, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 389, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 288, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\app\api\ingestion_routes.py", line 51, in ingest_data
+    task = upload_to_edge.delay(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\task.py", line 444, in delay
+    return self.apply_async(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\task.py", line 601, in apply_async
+    return app.send_task(
+           ^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 835, in send_task
+    driver_type = self.producer_pool.connections.connection.transport.driver_type
+                  ^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 1486, in producer_pool
+    return self.amqp.producer_pool
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\amqp.py", line 597, in producer_pool
+    self.app.connection_for_write()]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 958, in connection_for_write
+    return self._connection(url or self.conf.broker_write_url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 1009, in _connection
+    return self.amqp.Connection(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\connection.py", line 201, in __init__
+    if not get_transport_cls(transport).can_parse_url:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\transport\__init__.py", line 92, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\transport\__init__.py", line 77, in resolve_transport
+    return symbol_by_name(transport)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\utils\imports.py", line 59, in symbol_by_name
+    module = imp(module_name, package=package, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nickjj.chen\AppData\Roaming\uv\python\cpython-3.11.14-windows-x86_64-none\Lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\transport\redis.py", line 271, in <module>
+    class PrefixedStrictRedis(GlobalKeyPrefixMixin, redis.Redis):
+                                                    ^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'Redis'
+2025-11-26 17:19:54,880 - app.main - INFO - Shutting down application
+2025-11-26 17:19:55,790 - root - INFO - Logging configured successfully
+2025-11-26 17:19:55,791 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:19:55,791 - app.main - INFO - Environment: development
+2025-11-26 17:19:55,791 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:19:55,792 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:19:57,588 - app.main - ERROR - Unhandled exception: 'NoneType' object has no attribute 'Redis'
+Traceback (most recent call last):
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 123, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 109, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 389, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 288, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\app\api\ingestion_routes.py", line 51, in ingest_data
+    task = upload_to_edge.delay(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\task.py", line 444, in delay
+    return self.apply_async(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\task.py", line 601, in apply_async
+    return app.send_task(
+           ^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 835, in send_task
+    driver_type = self.producer_pool.connections.connection.transport.driver_type
+                  ^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 1486, in producer_pool
+    return self.amqp.producer_pool
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\amqp.py", line 597, in producer_pool
+    self.app.connection_for_write()]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 958, in connection_for_write
+    return self._connection(url or self.conf.broker_write_url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 1009, in _connection
+    return self.amqp.Connection(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\connection.py", line 201, in __init__
+    if not get_transport_cls(transport).can_parse_url:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\transport\__init__.py", line 92, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\transport\__init__.py", line 77, in resolve_transport
+    return symbol_by_name(transport)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\utils\imports.py", line 59, in symbol_by_name
+    module = imp(module_name, package=package, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nickjj.chen\AppData\Roaming\uv\python\cpython-3.11.14-windows-x86_64-none\Lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\transport\redis.py", line 271, in <module>
+    class PrefixedStrictRedis(GlobalKeyPrefixMixin, redis.Redis):
+                                                    ^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'Redis'
+2025-11-26 17:20:32,709 - app.main - INFO - Shutting down application
+2025-11-26 17:20:33,600 - root - INFO - Logging configured successfully
+2025-11-26 17:20:33,600 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:20:33,601 - app.main - INFO - Environment: development
+2025-11-26 17:20:33,601 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:20:33,601 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:21:13,847 - app.main - INFO - Shutting down application
+2025-11-26 17:21:14,748 - root - INFO - Logging configured successfully
+2025-11-26 17:21:14,749 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:21:14,749 - app.main - INFO - Environment: development
+2025-11-26 17:21:14,749 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:21:14,749 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:21:16,597 - app.main - ERROR - Unhandled exception: 'NoneType' object has no attribute 'Redis'
+Traceback (most recent call last):
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 123, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 109, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 389, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 288, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\app\api\ingestion_routes.py", line 51, in ingest_data
+    task = upload_to_edge.delay(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\task.py", line 444, in delay
+    return self.apply_async(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\task.py", line 601, in apply_async
+    return app.send_task(
+           ^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 835, in send_task
+    driver_type = self.producer_pool.connections.connection.transport.driver_type
+                  ^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 1486, in producer_pool
+    return self.amqp.producer_pool
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\amqp.py", line 597, in producer_pool
+    self.app.connection_for_write()]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 958, in connection_for_write
+    return self._connection(url or self.conf.broker_write_url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\celery\app\base.py", line 1009, in _connection
+    return self.amqp.Connection(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\connection.py", line 201, in __init__
+    if not get_transport_cls(transport).can_parse_url:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\transport\__init__.py", line 92, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\transport\__init__.py", line 77, in resolve_transport
+    return symbol_by_name(transport)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\utils\imports.py", line 59, in symbol_by_name
+    module = imp(module_name, package=package, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nickjj.chen\AppData\Roaming\uv\python\cpython-3.11.14-windows-x86_64-none\Lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\kombu\transport\redis.py", line 271, in <module>
+    class PrefixedStrictRedis(GlobalKeyPrefixMixin, redis.Redis):
+                                                    ^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'Redis'
+2025-11-26 17:23:11,289 - app.main - INFO - Shutting down application
+2025-11-26 17:24:13,017 - root - INFO - Logging configured successfully
+2025-11-26 17:24:13,017 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:24:13,017 - app.main - INFO - Environment: development
+2025-11-26 17:24:13,017 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:24:13,018 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:25:41,736 - root - INFO - Logging configured successfully
+2025-11-26 17:25:41,737 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:25:41,737 - app.main - INFO - Environment: development
+2025-11-26 17:25:41,737 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:25:41,738 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:28:01,914 - app.main - INFO - Shutting down application
+2025-11-26 17:29:35,884 - root - INFO - Logging configured successfully
+2025-11-26 17:29:35,885 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:29:35,885 - app.main - INFO - Environment: development
+2025-11-26 17:29:35,885 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:29:35,885 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:29:55,399 - app.main - ERROR - Unhandled exception: name 'celery_app' is not defined
+Traceback (most recent call last):
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 123, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 109, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 389, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 290, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\concurrency.py", line 38, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2485, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 976, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\app\api\ingestion_routes.py", line 67, in get_task_status
+    task_result = AsyncResult(task_id, app=celery_app)
+                                           ^^^^^^^^^^
+NameError: name 'celery_app' is not defined
+2025-11-26 17:29:59,842 - app.main - ERROR - Unhandled exception: name 'celery_app' is not defined
+Traceback (most recent call last):
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 123, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 109, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 389, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\fastapi\routing.py", line 290, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\starlette\concurrency.py", line 38, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2485, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 976, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\git-repos\edge_impulse_plugin\app\api\ingestion_routes.py", line 67, in get_task_status
+    task_result = AsyncResult(task_id, app=celery_app)
+                                           ^^^^^^^^^^
+NameError: name 'celery_app' is not defined
+2025-11-26 17:31:22,225 - app.main - INFO - Shutting down application
+2025-11-26 17:31:23,170 - root - INFO - Logging configured successfully
+2025-11-26 17:31:23,170 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:31:23,170 - app.main - INFO - Environment: development
+2025-11-26 17:31:23,171 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:31:23,171 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:38:49,628 - app.main - INFO - Shutting down application
+2025-11-26 17:38:51,034 - root - INFO - Logging configured successfully
+2025-11-26 17:38:51,034 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:38:51,034 - app.main - INFO - Environment: development
+2025-11-26 17:38:51,035 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:38:51,035 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:44:23,556 - app.main - INFO - Shutting down application
+2025-11-26 17:44:24,502 - root - INFO - Logging configured successfully
+2025-11-26 17:44:24,502 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:44:24,502 - app.main - INFO - Environment: development
+2025-11-26 17:44:24,502 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:44:24,503 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:44:52,798 - app.main - INFO - Shutting down application
+2025-11-26 17:44:53,709 - root - INFO - Logging configured successfully
+2025-11-26 17:44:53,709 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:44:53,709 - app.main - INFO - Environment: development
+2025-11-26 17:44:53,710 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:44:53,710 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-26 17:45:01,125 - app.main - INFO - Shutting down application
+2025-11-26 17:45:02,014 - root - INFO - Logging configured successfully
+2025-11-26 17:45:02,014 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-26 17:45:02,016 - app.main - INFO - Environment: development
+2025-11-26 17:45:02,016 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-26 17:45:02,016 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-27 13:28:10,006 - root - INFO - Logging configured successfully
+2025-11-27 13:28:10,007 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-27 13:28:10,007 - app.main - INFO - Environment: development
+2025-11-27 13:28:10,007 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-27 13:28:10,008 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-27 13:40:52,399 - app.main - INFO - Shutting down application
+2025-11-27 13:40:53,950 - root - INFO - Logging configured successfully
+2025-11-27 13:40:53,951 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-27 13:40:53,951 - app.main - INFO - Environment: development
+2025-11-27 13:40:53,951 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-27 13:40:53,951 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-27 13:56:34,690 - app.main - INFO - Shutting down application
+2025-11-27 14:01:19,321 - root - INFO - Logging configured successfully
+2025-11-27 14:01:19,321 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-27 14:01:19,321 - app.main - INFO - Environment: development
+2025-11-27 14:01:19,321 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-27 14:01:19,322 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-27 14:46:46,567 - app.main - INFO - Shutting down application
+2025-11-27 14:46:48,210 - root - INFO - Logging configured successfully
+2025-11-27 14:46:48,210 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-27 14:46:48,211 - app.main - INFO - Environment: development
+2025-11-27 14:46:48,211 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-27 14:46:48,211 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-27 14:48:45,466 - app.main - INFO - Shutting down application
+2025-11-27 14:48:58,437 - root - INFO - Logging configured successfully
+2025-11-27 14:48:58,437 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-27 14:48:58,438 - app.main - INFO - Environment: development
+2025-11-27 14:48:58,438 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-27 14:48:58,438 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-27 14:51:04,367 - app.main - INFO - Shutting down application
+2025-11-27 14:51:48,548 - root - INFO - Logging configured successfully
+2025-11-27 14:51:48,548 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-27 14:51:48,548 - app.main - INFO - Environment: development
+2025-11-27 14:51:48,549 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-27 14:51:48,549 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-27 14:52:32,432 - app.main - INFO - Shutting down application
+2025-11-27 14:52:54,324 - root - INFO - Logging configured successfully
+2025-11-27 14:52:54,324 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-27 14:52:54,325 - app.main - INFO - Environment: development
+2025-11-27 14:52:54,325 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-27 14:52:54,325 - app.main - INFO - S3 Bucket: advantech-test
+2025-11-27 14:57:56,037 - app.main - INFO - Shutting down application
+2025-11-27 14:57:59,713 - root - INFO - Logging configured successfully
+2025-11-27 14:57:59,714 - app.main - INFO - Starting Edge Impulse Plugin v0.0.1
+2025-11-27 14:57:59,714 - app.main - INFO - Environment: development
+2025-11-27 14:57:59,714 - app.main - INFO - S3 Endpoint: https://b8e6b402a936cb88ee5b82fce7b5d179.r2.cloudflarestorage.com
+2025-11-27 14:57:59,714 - app.main - INFO - S3 Bucket: advantech-test

@@ -9,7 +9,7 @@ import logging
 
 from app.models import HealthCheckResponse
 from app.services import S3StorageClient
-from common.config import settings
+from common.config import config
 
 logger = logging.getLogger(__name__)
 
@@ -26,10 +26,10 @@ def get_storage_client() -> S3StorageClient:
     if _storage_client is None:
         if not all(
             [
-                settings.S3_ENDPOINT_URL,
-                settings.S3_BUCKET,
-                settings.S3_ACCESS_KEY,
-                settings.S3_SECRET_KEY,
+                config.S3_ENDPOINT_URL,
+                config.S3_BUCKET,
+                config.S3_ACCESS_KEY,
+                config.S3_SECRET_KEY,
             ]
         ):
             raise HTTPException(
@@ -38,13 +38,13 @@ def get_storage_client() -> S3StorageClient:
             )
 
         _storage_client = S3StorageClient(
-            endpoint_url=settings.S3_ENDPOINT_URL,
-            bucket=settings.S3_BUCKET,
-            region=settings.S3_REGION,
-            access_key=settings.S3_ACCESS_KEY,
-            secret_key=settings.S3_SECRET_KEY,
-            use_ssl=settings.S3_USE_SSL,
-            base_path=settings.S3_BASE_PATH,
+            endpoint_url=config.S3_ENDPOINT_URL,
+            bucket=config.S3_BUCKET,
+            region=config.S3_REGION,
+            access_key=config.S3_ACCESS_KEY,
+            secret_key=config.S3_SECRET_KEY,
+            use_ssl=config.S3_USE_SSL,
+            base_path=config.S3_BASE_PATH,
         )
     return _storage_client
 
@@ -117,12 +117,12 @@ async def get_storage_config() -> Dict[str, Any]:
         # 脫敏處理
         access_key_masked = (
             client._access_key[:4] + "****" + client._access_key[-4:]
-            if settings.S3_ACCESS_KEY
+            if config.S3_ACCESS_KEY
             else "****"
         )
         secret_key_masked = (
             client._secret_key[:4] + "****" + client._secret_key[-4:]
-            if settings.S3_SECRET_KEY
+            if config.S3_SECRET_KEY
             else "****"
         )
 

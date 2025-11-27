@@ -5,5 +5,6 @@ API Package
 
 from .converter_routes import router as converter_router
 from .storage_routes import router as storage_router
+from .ingestion_routes import router as ingestion_router
 
-__all__ = ["converter_router", "storage_router"]
+__all__ = ["converter_router", "storage_router", "ingestion_router"]

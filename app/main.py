@@ -11,8 +11,8 @@ from logging.handlers import RotatingFileHandler
 import os
 from contextlib import asynccontextmanager
 
-from common.config import settings
-from app.api import converter_router, storage_router
+from common.config import config
+from app.api import converter_router, storage_router, ingestion_router
 
 
 # 配置日誌
@@ -57,10 +57,10 @@ async def lifespan(app: FastAPI):
     # 啟動時執行
     setup_logging()
     logger = logging.getLogger(__name__)
-    logger.info(f"Starting {settings.APP_NAME} v{settings.APP_VERSION}")
-    logger.info(f"Environment: {settings.ENVIRONMENT}")
-    logger.info(f"S3 Endpoint: {settings.S3_ENDPOINT_URL}")
-    logger.info(f"S3 Bucket: {settings.S3_BUCKET}")
+    logger.info(f"Starting {config.APP_NAME} v{config.APP_VERSION}")
+    logger.info(f"Environment: {config.ENVIRONMENT}")
+    logger.info(f"S3 Endpoint: {config.S3_ENDPOINT_URL}")
+    logger.info(f"S3 Bucket: {config.S3_BUCKET}")
 
     yield
 
@@ -70,8 +70,8 @@ async def lifespan(app: FastAPI):
 
 # 創建 FastAPI 應用
 app = FastAPI(
-    title=settings.APP_NAME,
-    version=settings.APP_VERSION,
+    title=config.APP_NAME,
+    version=config.APP_VERSION,
     description="Convert sensor data to Edge Impulse format and upload to S3-compatible storage",
     lifespan=lifespan,
     docs_url="/docs",
@@ -91,6 +91,7 @@ app.add_middleware(
 # 註冊路由
 app.include_router(storage_router, prefix="/api/v1", tags=["Edge Impulse Storage"])
 app.include_router(converter_router, prefix="/api/v1", tags=["Edge Impulse Converter"])
+app.include_router(ingestion_router, prefix="/api/v1", tags=["Edge Impulse Ingestion"])
 
 
 # 根路徑
@@ -99,8 +100,8 @@ async def root():
     """根路徑重定向到文檔"""
     return JSONResponse(
         {
-            "message": f"Welcome to {settings.APP_NAME}",
-            "version": settings.APP_VERSION,
+            "message": f"Welcome to {config.APP_NAME}",
+            "version": config.APP_VERSION,
             "docs": "/docs",
         }
     )
@@ -118,9 +119,7 @@ async def global_exception_handler(request, exc):
             "status": "error",
             "message": "Internal server error",
             "detail": (
-                str(exc)
-                if settings.ENVIRONMENT == "development"
-                else "An error occurred"
+                str(exc) if config.ENVIRONMENT == "development" else "An error occurred"
             ),
         },
     )
@@ -132,7 +131,8 @@ if __name__ == "__main__":
     uvicorn.run(
         "app.main:app",
         host="0.0.0.0",
-        port=8000,
-        reload=settings.ENVIRONMENT == "development",
+        port=6969,
+        # reload=config.ENVIRONMENT == "development",
+        reload=False,
         log_level="info",
     )

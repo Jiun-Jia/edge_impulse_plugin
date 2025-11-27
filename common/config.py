@@ -53,6 +53,9 @@ class Config(BaseSettings):
     ### Edge Impulse Configuration ###
     ##################################
 
+    # Ingestion API Endpoint
+    EI_INGESTION_ENDPOINT: Optional[str] = Field(default=None)
+
     # HMAC Key for signing data (optional, leave empty if not needed)
     EI_HMAC_KEY: Optional[str] = Field(default="")
 

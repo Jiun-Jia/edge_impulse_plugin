@@ -10,12 +10,12 @@ import logging
 from app.models import (
     SensorDataRequest,
     ConversionResponse,
-    HealthCheckResponse,
+    # HealthCheckResponse,
     ErrorResponse,
 )
 from app.api.storage_routes import get_storage_client
 from app.services import EdgeImpulseConverter, S3StorageClient
-from common.config import settings
+from common.config import config
 
 logger = logging.getLogger(__name__)
 
@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 router = APIRouter(prefix="/converter")
 
 # 初始化服務
-converter = EdgeImpulseConverter(hmac_key=settings.EI_HMAC_KEY or "")
+converter = EdgeImpulseConverter(hmac_key=config.EI_HMAC_KEY or "")
 
 
 @router.post(
