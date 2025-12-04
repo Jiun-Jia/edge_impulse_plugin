@@ -65,9 +65,3 @@ class Config(BaseSettings):
 
 
 config = Config()
-
-KEY_PADDING = 40
-print("=" * 100)
-for key, value in vars(config).items():
-    print((f"[ENV] {key.ljust(KEY_PADDING)}: {value}"))
-print("=" * 100)

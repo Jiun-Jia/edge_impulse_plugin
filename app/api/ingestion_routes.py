@@ -2,10 +2,8 @@
 Define API w/ Ingestion API
 """
 
-from fastapi import APIRouter, HTTPException, status
-from typing import Dict, Any
+from fastapi import APIRouter, HTTPException
 import logging
-import requests
 from celery.result import AsyncResult
 
 from common.config import config

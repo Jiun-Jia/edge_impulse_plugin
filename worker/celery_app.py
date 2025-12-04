@@ -19,7 +19,7 @@ def create_celery_app() -> Celery:
         broker=config.CELERY_BROKER_URL,
         backend=config.CELERY_RESULT_BACKEND,
         include=[
-            "worker.tasks.ei_task",
+            "app.tasks.ei_task",
         ],
     )
 

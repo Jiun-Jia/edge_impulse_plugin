@@ -1,9 +1,13 @@
 import requests
 
-from worker.celery_app import celery_app
+from common.models import UploadRequest
+from app.services.converter import weda_to_edgeimpulse
+
+from logs import worker_logger as logger
+from worker import celery_app
 
 
-@celery_app.task(bind=True)
+@celery_app.task(bind=True, queue="EI_ingestion")
 def upload_to_edge(self, data_id: str):
     API_KEY = "ei_1df40caea3a8ff4b9869f87c5fef6f3408a7e89982cac9ddd017e964fcbca70a"
     try:
@@ -41,6 +45,40 @@ def upload_to_edge(self, data_id: str):
             )
             res.raise_for_status()
         return {"status": "success", "data_id": data_id}
+    except Exception as e:
+        # Celery auto retry
+        raise self.retry(exc=e, countdown=5, max_retries=3)
+
+
+@celery_app.task(bind=True, queue="EI_ingestion")
+def convert_and_upload(self, upload_request: UploadRequest):
+    try:
+        upload_request = UploadRequest.model_validate(upload_request)
+        weda = upload_request.weda
+        metadata = upload_request.metadata
+
+        # Convert WEDA to EI format
+        ei_data = weda_to_edgeimpulse(weda, hmac_key=metadata.hmac_key)
+
+        with requests.Session() as s:
+            res = s.post(
+                f"https://ingestion.edgeimpulse.com/api/{metadata.dataset_type.value}/data",
+                headers={
+                    "Content-Type": "application/json",
+                    "x-file-name": metadata.file_name or "data.json",
+                    "x-label": metadata.label,
+                    "x-no-label": "1" if metadata.no_label else "0",
+                    "x-api-key": metadata.api_key,
+                },
+                data=ei_data,
+                timeout=30,
+            )
+            res.raise_for_status()
+        return {
+            "status": "success",
+            "message": "Data ingested to Edge Impulse",
+            "task_id": self.request.id,
+        }
     except Exception as e:
         # Celery auto retry
         raise self.retry(exc=e, countdown=5, max_retries=3)
